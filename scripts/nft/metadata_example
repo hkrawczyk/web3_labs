@@ -1,0 +1,28 @@
+{
+   "name":"Membership Pass #1",
+   "description":"Description of my project",
+   "external_url":"https://mojprojekt.com/",
+   "image":"ipfs://bafybeia4mipgj6qb3kmaiiendaahreqe6i4oknvrarkmjjrexzxtmugw7q",
+   "attributes":[
+      {
+         "trait_type":"Country",
+         "value":"Italy"
+      },
+      {
+         "trait_type":"City",
+         "value":"Sezze"
+      },
+      {
+         "trait_type":"Capital",
+         "value":"No"
+      },
+      {
+         "trait_type":"Tile",
+         "value":"K1"
+      },
+      {
+         "trait_type":"Population",
+         "value":24954
+      }
+   ]
+}
