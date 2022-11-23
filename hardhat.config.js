@@ -5,7 +5,6 @@ require("@nomiclabs/hardhat-waffle");
 require("hardhat-gas-reporter");
 require("solidity-coverage");
 
-
 // You need to export an object to set up your config
 // Go to https://hardhat.org/config/ to learn more
 
@@ -13,7 +12,7 @@ require("solidity-coverage");
  * @type import('hardhat/config').HardhatUserConfig
  */
 
-//wpłaciłem 1200 usd
+
 module.exports = {
   solidity: {
     version:"0.8.9",
